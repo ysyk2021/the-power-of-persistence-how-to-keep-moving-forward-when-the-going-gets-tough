@@ -8,5 +8,4 @@ Throughout the book, we will draw on real-world examples of successful individua
 
 Whether you're facing a specific challenge or simply seeking to cultivate a more persistent mindset, this book will provide you with practical strategies and inspiration for keeping moving forward, even in the face of difficulty. By embracing the power of persistence, you can overcome obstacles, achieve your goals, and live a more fulfilling life.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
