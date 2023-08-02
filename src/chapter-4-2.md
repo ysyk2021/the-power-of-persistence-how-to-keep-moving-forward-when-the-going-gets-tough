@@ -1,4 +1,4 @@
-Chapter: Staying Motivated During Difficult Times
+Staying Motivated During Difficult Times
 =================================================
 
 In this chapter, we will explore the importance of staying motivated during difficult times and discuss strategies to help individuals maintain their drive and determination. When faced with challenges and obstacles, it is common to feel demotivated or discouraged. However, developing strategies to stay motivated is crucial for maintaining persistence and moving forward on the path to success.

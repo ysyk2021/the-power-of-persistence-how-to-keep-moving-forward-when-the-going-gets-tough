@@ -1,4 +1,4 @@
-Chapter: Techniques for Developing a Persistent Mindset
+Techniques for Developing a Persistent Mindset
 =======================================================
 
 In this chapter, we will explore effective techniques for cultivating and strengthening a persistent mindset. These techniques can help us overcome challenges, setbacks, and obstacles on our journey towards achieving our goals. By implementing these strategies, we can develop the resilience and determination necessary to keep moving forward when the going gets tough.

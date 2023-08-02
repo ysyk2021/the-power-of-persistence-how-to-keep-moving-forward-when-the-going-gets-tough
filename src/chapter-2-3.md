@@ -1,4 +1,4 @@
-Chapter: Benefits of Persistent Behavior
+Benefits of Persistent Behavior
 ========================================
 
 In this chapter, we will explore the numerous benefits that come with embracing persistent behavior. By understanding these advantages, you will be motivated to cultivate persistence in your own life and reap its rewards.
