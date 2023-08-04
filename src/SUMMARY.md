@@ -2,7 +2,6 @@
 
 - [Chapter 1: Introduction](README.md)
   - [Importance of persistence in achieving goals](chapter-1-1.md)
-  - [Overview of the book's contents](chapter-1-2.md)
 - [Chapter 2: What is Persistence?](chapter-2.md)
   - [Definition of persistence](chapter-2-1.md)
   - [Common misconceptions about persistence](chapter-2-2.md)
