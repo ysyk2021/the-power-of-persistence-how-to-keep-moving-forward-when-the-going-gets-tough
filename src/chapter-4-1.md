@@ -1,5 +1,3 @@
-Setting Achievable Goals
-=================================
 
 In this chapter, we will explore the importance of setting achievable goals and how they contribute to maintaining persistence. Setting realistic and attainable goals is essential for staying motivated and making progress amidst challenges. By following these strategies for setting achievable goals, individuals can enhance their persistence and increase their chances of success.
 

@@ -1,5 +1,3 @@
-Common Misconceptions about Persistence
-================================================
 
 In this chapter, we will uncover and debunk common misconceptions surrounding persistence. By dispelling these misconceptions, you will gain a clearer understanding of what persistence truly entails and how it can empower you to keep moving forward in challenging times.
 

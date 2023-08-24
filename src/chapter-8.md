@@ -1,5 +1,3 @@
-Chapter 8: Overcoming Obstacles to Persistence
-==============================================
 
 Persistence is key to achieving long-term goals, but it's not always easy. Obstacles can get in the way and make it challenging to keep moving forward. In this chapter, we'll explore common obstacles to persistence, strategies for overcoming them, and tips for maintaining a strong persistence mindset.
 

@@ -1,5 +1,3 @@
-Chapter 2: What is Persistence?
-===============================
 
 Persistence is a key trait for achieving long-term success. In this chapter, we'll explore the definition of persistence, common misconceptions about persistence, and the benefits of persistent behavior.
 

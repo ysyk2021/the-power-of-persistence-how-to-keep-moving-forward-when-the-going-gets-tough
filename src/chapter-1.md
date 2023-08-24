@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Persistence is a key trait for achieving long-term success. In this chapter, we'll discuss the importance of persistence in achieving goals and provide an overview of the book's contents.
 

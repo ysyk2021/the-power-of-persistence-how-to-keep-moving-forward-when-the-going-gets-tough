@@ -1,5 +1,3 @@
-Summary of Key Points
-=============================================
 
 In this book, we've explored the power of persistence and techniques for maintaining motivation and commitment towards achieving our goals. Here's a summary of the key points covered in each chapter:
 

@@ -1,5 +1,3 @@
-Common Obstacles to Persistence
-========================================
 
 In this chapter, we will explore common obstacles that can hinder persistence and how to overcome them. When pursuing our goals, we often encounter challenges and setbacks that test our determination and resilience. By recognizing these obstacles and implementing strategies to overcome them, we can maintain a strong persistence mindset and keep moving forward, even when the going gets tough.
 

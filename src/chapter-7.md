@@ -1,5 +1,3 @@
-Chapter 7: Collaborating for Persistence
-========================================
 
 Collaboration can be a powerful tool for maintaining persistence towards achieving our goals. In this chapter, we'll explore the importance of collaboration in persistence, strategies for effective collaboration to maintain persistence, and examples of successful collaborations that achieved persistence in goal achievement.
 

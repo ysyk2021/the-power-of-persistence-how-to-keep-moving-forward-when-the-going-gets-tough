@@ -1,4 +1,3 @@
-# Conclusion
 
 In this book, we have explored the power of persistence and how to keep moving forward when the going gets tough. We have discussed various strategies for developing our resilience and perseverance, including setting goals, staying focused, seeking support, embracing failure, and maintaining a growth mindset.
 

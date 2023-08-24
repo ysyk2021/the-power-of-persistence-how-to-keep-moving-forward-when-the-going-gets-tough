@@ -1,5 +1,3 @@
-Chapter 6: The Role of Resilience in Persistence
-================================================
 
 Resilience is a key component of persistence. In this chapter, we'll explore the relationship between resilience and persistence, strategies for building resilience to maintain persistence, and examples of individuals who demonstrated strong resilience in maintaining persistence.
 
@@ -26,5 +24,4 @@ Conclusion
 ----------
 
 Resilience is an essential component of persistence. By building resilience through positive mindset, seeking support from others, taking care of ourselves, and setting realistic expectations, we become better equipped to handle adversity and stay committed towards achieving our long-term goals. Remember that setbacks and challenges are inevitable on the path towards success, but by building resilience, we can maintain our persistence and achieve incredible things.
-
 
