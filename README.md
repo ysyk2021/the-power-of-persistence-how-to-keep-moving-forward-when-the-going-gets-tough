@@ -1,3 +1,6 @@
+# The Power of Persistence: How to Keep Moving Forward When the Going Gets Tough
+
+Book Link: [https://zhengpublishing.com/the-power-of-persistence-how-to-keep-moving-forward-when-the-going-gets-tough/](https://zhengpublishing.com/the-power-of-persistence-how-to-keep-moving-forward-when-the-going-gets-tough/)
 
 Persistence is the key to success in any endeavor. Whether you're pursuing a personal goal, starting a business, or facing challenges in your professional life, the ability to keep moving forward when the going gets tough is essential.
 
